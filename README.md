@@ -3,4 +3,5 @@ This code implements a random forest regressor followed by a linear discriminant
 
 It also runs various statistical tests and makes diagnostic plots to examine the training data; it does so to assess between-class fairness.
 
-<img src="coeff.png" width=500 class="center">
+Here is the output, a selection of leading terms for each run, heatmap-style.
+<img src="coeff.png" width=1000 class="center">
